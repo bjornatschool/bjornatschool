@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @bjornatschool
-- 👀 I’m interested in knowledge
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me is on my Discord (mooseyguy8997)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a GitHub user :O
+
